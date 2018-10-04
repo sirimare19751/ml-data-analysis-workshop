@@ -6,7 +6,7 @@ Hands-on workshop: Data Analysis for Machine Learning.
 
 ### Create your project in RMOTR Notebooks
 
-Use the following link to create your project and start working: [Start Working](https://notebooks.rmotr.com/projects/create?repo_url=https://github.com/rmotr/ml-data-analysis-workshop&name=ml-data-analysis-workshop)
+Use the following link to create your project and start working: **[👉Click here to start working👈](https://notebooks.rmotr.com/projects/create?repo_url=https://github.com/rmotr/ml-data-analysis-workshop&name=ml-data-analysis-workshop)**
 
 ---
 <a href="https://rmotr.com/" target="_blank" style="display: block; text-align: center;">
