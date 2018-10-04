@@ -1,6 +1,8 @@
 <img align="right" width="120" alt="rmotr.com" src="https://user-images.githubusercontent.com/7065401/45454218-80bee800-b6b9-11e8-97bb-bb5e7675f440.png">
 
-# RMOTR Workshop: Data Analysis for Machine Learning
+# RMOTR Workshop
+
+Hands-on workshop: Data Analysis for Machine Learning.
 
 ### Create your project in RMOTR Notebooks
 
